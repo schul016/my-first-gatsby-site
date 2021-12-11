@@ -4,11 +4,11 @@ module.exports = {
     title: "My First Gatsby Site",
   },
   plugins: [
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "",
-      },
-    },
+    // {
+    //   resolve: "gatsby-plugin-google-analytics",
+    //   options: {
+    //     trackingId: "",
+    //   },
+    // },
   ],
 };
