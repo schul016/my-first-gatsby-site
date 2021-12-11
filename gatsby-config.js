@@ -10,5 +10,7 @@ module.exports = {
     //     trackingId: "",
     //   },
     // },
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp"
   ],
 };
